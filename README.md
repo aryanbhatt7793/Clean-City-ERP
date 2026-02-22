@@ -1,5 +1,5 @@
 **Clean-City-ERP** 
-Zone-Based Smart Waste Management System
+: Zone-Based Smart Waste Management System
 
 **CleanCity**: Data-Backed Waste Reporting & Circular Economy Platform
 CleanCity is a web-based waste management system designed to detect, report, and manage unidentified garbage dumping locations while promoting structured household waste segregation and recycling-based incentives.
