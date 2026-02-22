@@ -7,7 +7,7 @@ CleanCity is a web-based waste management system designed to detect, report, and
 **Project Type**: Group Project
 
 **Team & Roles**
-**Backend & Database Lead **– Aryan Bhatt
+**Backend & Database Lead**– Aryan Bhatt
 
 Designed and implemented server-side logic using PHP
 Developed REST-style backend workflows
